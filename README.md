@@ -1,4 +1,4 @@
-##Logical Zero Shot Learning
+## Logical Zero Shot Learning
 
 In real-life image recognition challenges, there are often too many object classes to get
 labelled data for all possible classes. Moreover, there can be hierarchical semantic
